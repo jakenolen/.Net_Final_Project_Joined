@@ -9,3 +9,13 @@ C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\Cec
 C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.pdb
 C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.Form1.resources
 C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.dev.resources
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\bin\Debug\CecilioNolenAuditReview.exe.config
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\bin\Debug\CecilioNolenAuditReview.exe
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\bin\Debug\CecilioNolenAuditReview.pdb
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.csprojAssemblyReference.cache
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.dev.resources
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.Form1.resources
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.Properties.Resources.resources
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.csproj.GenerateResource.cache
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.exe
+C:\Users\eduar\Source\Repos\jakenolen\.Net_Final_Project_Joined\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.pdb
