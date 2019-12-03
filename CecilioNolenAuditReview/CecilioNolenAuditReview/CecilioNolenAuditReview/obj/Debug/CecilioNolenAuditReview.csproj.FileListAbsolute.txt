@@ -1,0 +1,11 @@
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\bin\Debug\CecilioNolenAuditReview.exe.config
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\bin\Debug\CecilioNolenAuditReview.exe
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\bin\Debug\CecilioNolenAuditReview.pdb
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.csprojAssemblyReference.cache
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.Properties.Resources.resources
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.csproj.GenerateResource.cache
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.csproj.CoreCompileInputs.cache
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.exe
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.pdb
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.Form1.resources
+C:\Users\Nolen-Portable\Documents\UAFS\Fall 2019\Net\CecilioNolenAuditReview\CecilioNolenAuditReview\CecilioNolenAuditReview\obj\Debug\CecilioNolenAuditReview.dev.resources
