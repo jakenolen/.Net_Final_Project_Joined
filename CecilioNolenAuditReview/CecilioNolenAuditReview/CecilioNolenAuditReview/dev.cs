@@ -352,8 +352,7 @@ namespace CecilioNolenAuditReview
 
         private void dev_save_desktop_btn_Click(object sender, EventArgs e)
         {
-            string test = "testing Commit agina";
-            string test = "testing from jake";
+          
             try
             {
                 int devID = 1000;
